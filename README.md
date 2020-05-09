@@ -6,7 +6,7 @@ Refer to this guide: https://hackernoon.com/how-to-trick-out-terminal-287c0e93fc
 <br></br>
 ### 1. Upgrade to Zsh if you're still using Bash.<br></br>
 
-### 2. Install Oh-My-Zsh from [here](https://github.com/ohmyzsh/ohmyzsh#via-curl).
+### 2. Install [Oh-My-Zsh](https://github.com/ohmyzsh/ohmyzsh#via-curl).
 
 Basically just type the following into the terminal:
 ```
