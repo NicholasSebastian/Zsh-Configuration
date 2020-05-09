@@ -22,6 +22,7 @@ For the sake of convenience, if needed for whatever reason, here is the link to 
 Alternatively, you can find more free fonts in [here](https://github.com/ryanoasis/nerd-fonts#font-installation).
 <br></br>
 ### 4. Install the [Powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) theme for Zsh.
+Look [here](https://github.com/Powerlevel9k/powerlevel9k/wiki/Install-Instructions#step-1-install-powerlevel9k) for more detailed installation instructions.
 
 #### First, get the homebrew tap:
 ```
@@ -46,5 +47,3 @@ Or alternatively, you can simply do it all in one go like so:
 ```
 echo "source /usr/local/opt/powerlevel9k/powerlevel9k.zsh-theme" >> ~/.zshrc
 ```
-
-Look [here](https://github.com/Powerlevel9k/powerlevel9k/wiki/Install-Instructions#step-1-install-powerlevel9k) for more detailed installation instructions.
