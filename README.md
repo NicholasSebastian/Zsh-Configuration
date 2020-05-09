@@ -17,7 +17,7 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 ```
 For the sake of convenience, if needed for whatever reason, here is the link to the [official website](https://ohmyz.sh/).
 <br></br>
-### 3. Install the [this](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.ttf) font, then change the terminal font through the Preferences.
+### 3. Install this [font](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/DejaVuSansMono/Regular/complete/DejaVu%20Sans%20Mono%20Nerd%20Font%20Complete%20Mono%20Windows%20Compatible.ttf), then change the terminal font through the Preferences.
 
 Alternatively, you can find more free fonts in [here](https://github.com/ryanoasis/nerd-fonts#font-installation).
 <br></br>
