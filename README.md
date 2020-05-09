@@ -4,7 +4,8 @@ Repository to store my Oh-My-Zsh Terminal Configs.
 ## Instructions for my future dumb self
 Helpful installation and setup guide:  
 https://hackernoon.com/how-to-trick-out-terminal-287c0e93fce0.<br></br>
-Guide for in case you want to further customize your design: https://github.com/Powerlevel9k/powerlevel9k/wiki/Stylizing-Your-Prompt
+Guide for in case you want to further customize your design:  
+https://github.com/Powerlevel9k/powerlevel9k/wiki/Stylizing-Your-Prompt
 <br></br>
 ### 1. Upgrade to Zsh if you're still using Bash.<br></br>
 
