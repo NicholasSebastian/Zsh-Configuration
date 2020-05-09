@@ -1,9 +1,9 @@
 # Zsh-Configuration
 Repository to store my Oh-My-Zsh Terminal Configs.
-
-## Reminder to myself
+<br></br>
+## Instructions for my future dumb self
 Refer to this guide: https://hackernoon.com/how-to-trick-out-terminal-287c0e93fce0
-
+<br></br>
 ### 1. Upgrade to Zsh if you're still using Bash.<br></br>
 
 ### 2. Install Oh-My-Zsh from [here](https://github.com/ohmyzsh/ohmyzsh#via-curl).
